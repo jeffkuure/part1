@@ -7,7 +7,7 @@ const Hello = (props) => {
     <div>
       <p>
 
-        Hello {props.name}, you are {props.age} years old
+        Hello {props.name}, you are most likely {props.age} years old
       </p>
     </div>
   )
